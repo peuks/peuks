@@ -3,17 +3,16 @@ From **Home** :airplane: to the **World** !
 
 ## Hi U :sparkles:
 
-I'm [Emile](https://ekane3.github.io) ! Welcome here ! Actually a young Data lover :sparkling_heart: 
+I'm [Emile](https://peuks.github.io/capture) ! Welcome here ! Actually a young Data lover :sparkling_heart: 
 
 * I speak, read, write fluently both french and english and just basics in German.
 * I’m currently learning some Technologies around Big Data area.
 * I play games at my lost hours.
-* 💬 Ask me about anything [here](https://github.com/ekane3/ekane3.github.io/issues)
+* 💬 Ask me about anything [here](https://peuks.github.io/capture/contact)
 
 ## Statistics
-![Emile's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekane3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekane3&layout=compact)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=peuks)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peuks&layout=compact)
  
-<a href="https://github.com/ekane3/ekane3.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peuks&repo=capture.github.io" />
+<a href="https://peuks.github.io/capture">
 </a>
