@@ -15,5 +15,5 @@ I'm [Emile](https://ekane3.github.io) ! Welcome here ! Actually a young Data lov
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekane3&layout=compact)
  
 <a href="https://github.com/ekane3/ekane3.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ekane3&repo=ekane3.github.io" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peuks&repo=peuks.github.io" />
 </a>
