@@ -3,10 +3,10 @@ From **Home** :airplane: to the **World** !
 
 ## Hi U :sparkles:
 
-I'm [David](https://peuks.github.io/capture) ! Welcome here ! Actually a young Full Stack Dev :sparkling_heart: 
+I'm [David](https://peuks.github.io) ! Welcome here ! Actually a young Full Stack Dev :sparkling_heart: 
 
-* I speak, read, write fluently both french and english and just basics in German.
-* I’m currently learning some Technologies around Big Data area.
+* I speak, french, english and spanish.
+* I’m currently playing around MERN and .
 * I play games at my lost hours.
 * 💬 Ask me about anything [here](https://peuks.github.io/capture/contact)
 
