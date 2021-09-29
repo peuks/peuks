@@ -3,7 +3,7 @@ From **Home** :airplane: to the **World** !
 
 ## Hi U :sparkles:
 
-I'm [Emile](https://peuks.github.io/capture) ! Welcome here ! Actually a young Data lover :sparkling_heart: 
+I'm [Peuks](https://peuks.github.io/capture) ! Welcome here ! Actually a young Data lover :sparkling_heart: 
 
 * I speak, read, write fluently both french and english and just basics in German.
 * I’m currently learning some Technologies around Big Data area.
