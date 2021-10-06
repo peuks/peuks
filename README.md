@@ -14,5 +14,5 @@ I'm [David](https://peuks.github.io) ! Welcome here ! Actually a young Full Stac
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=peuks)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peuks&layout=compact)
  
-<a href="https://peuks.github.io/capture">
+<a href="https://peuks.github.io">
 </a>
