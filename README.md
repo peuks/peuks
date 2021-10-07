@@ -9,9 +9,9 @@ I'm [David](https://peuks.github.io) ! Welcome here ! Actually a young Full Stac
 * I’m currently playing around MERN, VueJs and Firebase.
 * I like to dance 
 ## Contact:
-* 💬 Portfolio Page [here](https://peuks.github.io)
-* 💬 Linkedin [here](https://www.linkedin.com/in/davidvanmak/)
-* 💬  [here](https://www.malt.fr/profile/davidvanmak)
+* 💬 [Portfolio](https://peuks.github.io)
+* 💬 [Linkedin](https://www.linkedin.com/in/davidvanmak/)
+* 💬 [Malt](https://www.malt.fr/profile/davidvanmak)
 
 ## Statistics
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=peuks)
