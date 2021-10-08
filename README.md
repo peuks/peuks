@@ -1,4 +1,4 @@
-## :rocket:An JavaScript and Php Developer
+## :rocket:A JavaScript and Php Developer
 From **Home** :airplane: to the **World** !
 
 ## Hi U :sparkles:
